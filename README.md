@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Felix
 - 👀 I’m interested in Front-end, UI-UX
-- 🌱 I’m currently learning Flutter, Dart
+- 🌱 I’m currently Junior 1.5 in Flutter
 
 
 ### Connect with me:

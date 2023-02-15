@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m Felix
-- 👀 I’m interested in Front-end, UI-UX
+- 👀 I’m interested in Mobile Application
 - 🌱 I’m currently Junior 1.5 in Flutter
 
 
@@ -16,10 +16,22 @@
 
 ### 🛠 Tools & Technology
 
-![image](https://user-images.githubusercontent.com/95233836/158127075-e111a917-79fe-4aed-b905-6491c2b06222.png)
-![image](https://user-images.githubusercontent.com/95233836/158127184-1c6ed884-bb36-4dbc-bf8b-d2f3d7ad3cab.png)
-![image](https://user-images.githubusercontent.com/95233836/158127217-d5280708-7129-4d0b-8013-60a6fab935db.png)
+![image](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![image](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![image](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+![image](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
+![image](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=for-the-badge&logo=Jira-Software&logoColor=white)
+![image](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![image](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white)
+![image](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
+
+</br>
+
+This account is my working account, you also check my another account:
+
+
+[<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>][github]
 
 </br>
 
@@ -30,3 +42,4 @@ You can click the Preview link to take a look at your changes.
 [facebook]:https://www.facebook.com/felixdinhit/
 [linkedin]:https://www.linkedin.com/in/dinh-loc-phuc/
 [instagram]:https://www.instagram.com/x_xxlphuc/
+[github]:https://www.github.com/sucanabo/

@@ -29,10 +29,10 @@
 
 </br>
 
-This account is my working account, you also check my another account:
+<b>👉 This account for work, you also check my personal <a href = [github]>account</a>.</b>
 
 
-[<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>][github]
+
 
 </br>
 

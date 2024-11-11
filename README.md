@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Felix
 - 👀 I’m interested in Mobile Application
-- 🌱 I’m currently Junior 1.5 in Flutter
+- 🌱 I’m currently have 3 year experiences in Mobile Developement
 
 
 ### Connect with me:
